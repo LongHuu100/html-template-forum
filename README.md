@@ -1,2 +1,2 @@
-# React Compnent
+# Template React Tutuarial
 
